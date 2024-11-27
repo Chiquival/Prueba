@@ -1,5 +1,5 @@
 import requests
-
+#Cambio para verificación GIT.
 # curl -X GET "https://api.esios.ree.es/indicators/59526" -H "Authorization: Token token=bb7299fe21b6c816db42a1d359f59a861854ac434d"
 
 url = "https://api.esios.ree.es/indicators/1001"
