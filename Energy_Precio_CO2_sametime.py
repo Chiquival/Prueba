@@ -1,5 +1,6 @@
 #Consultas API
 #Consulta precio
+#comentario conflicto
 
 import requests
 import pandas as pd
