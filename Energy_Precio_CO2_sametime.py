@@ -1,6 +1,5 @@
 #Consultas API
 #Consulta precio
-#comentario nuevo
 
 import requests
 import pandas as pd
